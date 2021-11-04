@@ -1,8 +1,8 @@
 <?php
     Class Conexion{
         private $server="localhost";
-        private $usr="adriantorres";
-        private $pass="1234";
+        private $usr="root";
+        private $pass="root";
         private $db ="zoo";
 
         public function conectar(){
